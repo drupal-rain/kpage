@@ -22,3 +22,4 @@ features[variable][] = menu_parent_kpage
 features[variable][] = node_options_kpage
 features[variable][] = node_preview_kpage
 features[variable][] = node_submitted_kpage
+features[variable][] = pathauto_node_kpage_pattern
