@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Kpage feature.
+ */
+
+include_once 'kpage.features.inc';
