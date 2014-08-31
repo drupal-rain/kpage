@@ -97,7 +97,7 @@ function kpage_field_default_field_instances() {
             'pathauto' => 0,
             'transliterate' => 0,
           ),
-          'value' => 'kpage/[node:nid]',
+          'value' => 'page/[node:nid]',
         ),
         'retroactive_update' => 0,
       ),

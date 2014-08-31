@@ -19,7 +19,7 @@ function kpage_ctools_plugin_api($module = NULL, $api = NULL) {
 function kpage_node_info() {
   $items = array(
     'kpage' => array(
-      'name' => t('Kpage'),
+      'name' => t('Page'),
       'base' => 'node_content',
       'description' => t('Site-wide static page content.'),
       'has_title' => '1',
